@@ -1,0 +1,14 @@
+D:\for_work\Vacancy\TestSearch\SearchPath\bin\Debug\net8.0\SearchPath.exe
+D:\for_work\Vacancy\TestSearch\SearchPath\bin\Debug\net8.0\SearchPath.deps.json
+D:\for_work\Vacancy\TestSearch\SearchPath\bin\Debug\net8.0\SearchPath.runtimeconfig.json
+D:\for_work\Vacancy\TestSearch\SearchPath\bin\Debug\net8.0\SearchPath.dll
+D:\for_work\Vacancy\TestSearch\SearchPath\bin\Debug\net8.0\SearchPath.pdb
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\SearchPath.GeneratedMSBuildEditorConfig.editorconfig
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\SearchPath.AssemblyInfoInputs.cache
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\SearchPath.AssemblyInfo.cs
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\SearchPath.csproj.CoreCompileInputs.cache
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\SearchPath.dll
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\refint\SearchPath.dll
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\SearchPath.pdb
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\SearchPath.genruntimeconfig.cache
+D:\for_work\Vacancy\TestSearch\SearchPath\obj\Debug\net8.0\ref\SearchPath.dll
